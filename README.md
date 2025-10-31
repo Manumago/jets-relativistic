@@ -13,23 +13,7 @@ El proyecto forma parte de un estudio sobre cómo la geometría del campo magné
   - Cálculo del factor Doppler y la intensidad aparente del beaming.
   - Visualización de trayectorias helicoidales y curvas de luz.
   - Análisis de la dependencia angular de la emisión.
-
----
-
-## Metodología
-
-El modelo considera un electrón relativista que se mueve bajo la acción de un campo magnético:
-\[
-\mathbf{B} = B_0 \hat{z} + B_\phi(r)\, \hat{\phi}, \quad \text{con} \quad B_\phi \propto \frac{1}{r}
-\]
-
-Las ecuaciones del movimiento se integran en el marco del laboratorio utilizando unidades naturales o del SI, con una condición inicial determinada por el factor de Lorentz \(\gamma_0\).  
-Se analiza la **direccionalidad de la radiación** mediante el factor Doppler:
-\[
-D = \frac{1}{\gamma (1 - \boldsymbol{\beta} \cdot \hat{n})}
-\]
-y la intensidad observada, proporcional a \(D^p\), con \(p \simeq 3\) para emisión sincrotrón.
-
+    
 ---
 
 ## Resultados esperados
