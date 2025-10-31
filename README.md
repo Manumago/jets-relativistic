@@ -35,5 +35,4 @@ Estudiante de Astronomía — Universidad de Antioquia
 ## Licencia
 
 Este proyecto se publica con fines académicos y de divulgación científica.  
-Puedes usar el código y las simulaciones con el debido crédito a la autora.
 
